@@ -1,6 +1,14 @@
-# nursery_app_ui
+# Nursery_app_ui
 
-A new Flutter project.
+A simple and clean Nursery App Ui in flutter 
+
+<br/><img src="https://github.com/rahamanar/NurseryAppUI_Flutter/blob/master/assets/images/nursery.gif" width="205" height="380">
+
+# Screenshots
+<br/><img src="https://github.com/rahamanar/NurseryAppUI_Flutter/blob/master/assets/images/Screenshot1.png" width="205" height="380">
+
+<br/><img src="https://github.com/rahamanar/NurseryAppUI_Flutter/blob/master/assets/images/Screenshot2.png" width="205" height="380">
+
 
 ## Getting Started
 
