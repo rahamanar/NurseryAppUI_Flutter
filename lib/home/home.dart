@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage>
       child: Scaffold(
         resizeToAvoidBottomPadding: true,
         body: Padding(
-          padding: const EdgeInsets.all(10.0),
+          padding: const EdgeInsets.all(6.0),
           child: Container(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -83,7 +83,7 @@ class _HomePageState extends State<HomePage>
                     children: [
                       Container(
                         height: 55,
-                        width: 80,
+                        width: 90,
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.only(
                             bottomRight: Radius.circular(10),

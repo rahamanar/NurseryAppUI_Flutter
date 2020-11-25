@@ -16,7 +16,7 @@ class Pricetaglist extends StatelessWidget {
         children: [
           TextSpan(
             text: "$category\n",
-            style: TextStyle(color: Colors.black, fontSize: 18),
+            style: TextStyle(color: Colors.black, fontSize: 16),
           ),
           TextSpan(
             text: value,
